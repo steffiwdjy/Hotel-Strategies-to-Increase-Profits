@@ -1,7 +1,15 @@
-# Hotel Strategies to Increase Profits
 
 ### Project Overview
 This project examines a hotel dataset to develop strategies that can increase profits within the hotel industry. By leveraging data analysis and visualization, the project aims to provide actionable insights into pricing, customer behavior, booking trends, and cancellation dynamics. These insights will help hotels optimize their operations, improve customer satisfaction, and maximize revenue.
+
+**Description of the file:**
+- dataset : dataset
+- PR_DSDSA_01 : Presentation
+- T1_DSDSA_VF_01 : EDA (Exploratory Data Analysis) of Hotel Reservations dataset
+- T2_DSDSA_VF_01 : Staging, Dashboard 1-3
+- T3_DSDSA_VF_01 :  EDA (Exploratory Data Analysis) of hotel_bookings dataset and Staging
+- T4M_DSDSA_01_VF : Classification Model Folder
+- TADSDSA_1 : Documentation
 
 ### Background
 **Definition of Tourism** \
